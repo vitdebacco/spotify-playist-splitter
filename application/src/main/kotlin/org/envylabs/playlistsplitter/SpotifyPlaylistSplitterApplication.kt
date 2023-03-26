@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class SpotifyPlaylistSplitterApplication
 
 fun main(args: Array<String>) {
-	runApplication<SpotifyPlaylistSplitterApplication>(*args)
+    runApplication<SpotifyPlaylistSplitterApplication>(*args)
 }
